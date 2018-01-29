@@ -1,0 +1,5 @@
+Notes
+
+2018/01/29  For episodes 8 & 9, STAGE:LIQUIDFUEL returns 0 in all conditions, can't find why.  Used SHIP:LIQUIDFUEL instead.
+2018/01/29  Created a custom craft, which did not successfully hover.
+
