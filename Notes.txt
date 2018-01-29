@@ -1,8 +1,11 @@
 Notes
 
+Following this YouTube playlist to learn Kerbal Operating System programming in the Kerbal Space Program game:  https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
+
+
 2018/01/29  For episodes 8 & 9, STAGE:LIQUIDFUEL returns 0 in all conditions, can't find why.  Used SHIP:LIQUIDFUEL instead.
 2018/01/29  Created a custom craft, which did not successfully hover.
-2018/01/29  Downloaded kerbot.craft from https://github.com/gisikw/ksprogramming/tree/master/episodes/e009
+2018/01/29  Downloaded kerbot.craft from https://github.com/gisikw/ksprogramming/tree/master/episodes/e009 to test tomorrow.
 
 
 
