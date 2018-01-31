@@ -5,7 +5,8 @@ Following this YouTube playlist to learn Kerbal Operating System programming in 
 
 2018/01/30  Testing Microsoft Visual Studio Code as a text editor
 2018/01/30  Configured syncback to copy the "E:\My Documents\GitHub\kos-cheers" folder to "C:\Kerbal Space Program - 1.2.2 Modded active\Ships\Script"
-2018/01/30  Configured github to use "E:\My Documents\GitHub\kos-cheers" as the local repository for kos-cheers.  
+2018/01/30  Attempted to configure github to use "E:\My Documents\GitHub\kos-cheers" as the local repository for kos-cheers.  
+2018/01/30  Can't use craft files from CheersKevin YouTube channel, incompatible game version.
 
 2018/01/29  For episodes 8 & 9, STAGE:LIQUIDFUEL returns 0 in all conditions, can't find why.  Used SHIP:LIQUIDFUEL instead.
 2018/01/29  Created a custom craft, which did not successfully hover.
