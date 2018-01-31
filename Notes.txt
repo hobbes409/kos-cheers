@@ -7,7 +7,10 @@ Following this YouTube playlist to learn Kerbal Operating System programming in 
 2018/01/30  Attempted to configure github to use "E:\My Documents\GitHub\kos-cheers" as the local repository for kos-cheers.  
 2018/01/30  Can't use craft files from CheersKevin YouTube channel, incompatible game version.
 2018/01/30  Changed kP to 0.01, kI to 0.00001, kD to 0.01.  Successful hover!  Hover altitude was low by value of P.  See KOS2_EP9_PID_testflight-1.csv
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQQ5kE2RFEFviu0-8YJFtPEmu7lTNfW8dr8Hdqur3hC7aiLbkUB2Y1mATqvTWIVD4KTMiBJ4QIyL50b/pubchart?oid=420506864&format=interactive
 2018/01/30  Changed kP to 0.001, kI to 0.001, starting altitude to 100, stage when LIQUIDFUEL remaining < 2.  See KOS2_EP9_PID_testflight-2.csv
+https://docs.google.com/spreadsheets/d/e/2PACX-1vR6Aq4PimBujty-uVezI4kyeuTpeDrtYNn4dY6nDXFgUmz1FL4fqrJKkGQWwb7eBTEqwxbo0BvLfgor/pubchart?oid=786673383&format=interactive
+
 
 2018/01/29  For episodes 8 & 9, STAGE:LIQUIDFUEL returns 0 in all conditions, can't find why.  Used SHIP:LIQUIDFUEL instead.
 2018/01/29  Created a custom craft, which did not successfully hover.
