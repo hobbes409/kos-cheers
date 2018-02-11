@@ -12,3 +12,6 @@ https://imgur.com/bLBpIU7
 
 https://imgur.com/2VvN6YT
 
+https://imgur.com/LbKZQ31
+
+https://imgur.com/jWXOQ77
