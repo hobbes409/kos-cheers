@@ -2,6 +2,15 @@ Notes
 
 Following this YouTube playlist to learn Kerbal Operating System programming in the Kerbal Space Program game:  https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 
+2018/02/10  Inspired by SpaceX, recorded some data using MechJeb ascent and landing guidance for recovering boosters.  file:kos3.ks
+2018/02/10  X-Y scatter plot of altitude and distance over ground.  Strange looking flight trajectories.  Scale is out by x100. 
+2018/02/10  Which one is longitude again?  Oh yeah.  Trajectories look better now.  Changed distance over ground from degrees to meters.
+2018/02/10  Plotted velocity (technically SHIP:AIRSPEED) and fuel remaining on same graph.
+2018/02/10  Plotted velocity over time with and without airbrakes.
+2018/02/10  MechJeb has trouble with airbrake if they are activated after landing guidance begins.  
+2018/02/10  MechJeb landing guidance won't accelerate upwards, 
+2018/02/10  if horizontal burn won't return to launchpad it gives up and lands anywhere it can.
+2018/02/10  Graphs will be uploaded tomorrow.
 
 2018/01/30  Testing Microsoft Visual Studio Code as a text editor
 2018/01/30  Attempted to configure github to use "E:\My Documents\GitHub\kos-cheers" as the local repository for kos-cheers.  
