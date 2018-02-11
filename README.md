@@ -8,8 +8,6 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vT3p-68Y8yJsHSMP8lcNAej09bipXM0G
 
 2018/02/11  Data from testing Return to Launch Site (RTLS) here:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="bLBpIU7"><a href="//imgur.com/bLBpIU7">Return to Launch Site (RTLS), Airspeed with and without airbrakes</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 https://imgur.com/bLBpIU7
 
 https://imgur.com/2VvN6YT
