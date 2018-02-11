@@ -4,6 +4,14 @@ Following this YouTube playlist to learn Kerbal Operating System programming in 
 https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 
 2018/02/11  Crashed Excel trying to create charts.  Each flight has approx 15,000 entries each with 5 data points.  Will try updating script to record data at lower frequency.
+2018/02/11  Used =MOD() and a filter to remove 3/4 of the data points instead of re-recording a flight.  Excel no longer crashes on creating a combined chart.  
+2018/02/11  Used =MAX(Altitude, 0) since Kerbal records some values as negative while landed, and also landing site is not same altitude as launchpad.
+2018/02/11  Normalized Fuel to scale with the Airspeed values since Excel can't add a tertiary chart Y-axis.
+2018/02/11  Uploaded charts as images:
+2018/02/11  https://imgur.com/bLBpIU7
+2018/02/11  https://imgur.com/2VvN6YT
+2018/02/11  https://imgur.com/LbKZQ31
+2018/02/11  https://imgur.com/jWXOQ77
 
 2018/02/10  Inspired by SpaceX, recorded some data using MechJeb ascent and landing guidance for recovering boosters.  file:kos3.ks
 2018/02/10  X-Y scatter plot of altitude and distance over ground.  Strange looking flight trajectories.  Scale is out by x100. 
