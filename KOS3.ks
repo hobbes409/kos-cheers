@@ -14,7 +14,7 @@ SET altimeter_max to -1.  //initialize altimeter to below surface
 
 // STAGE.  //using Mechjeb for now
 
-SWITCH TO 0.  //set environment to global file folder for recording data
+SWITCH TO 0.  //set environment to user folder for recording data
 
 
 UNTIL (elapsedTime > 420)  //record for at least seven minutes, and until altitude is back below 10 (omitted)
