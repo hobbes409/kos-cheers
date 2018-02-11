@@ -1,6 +1,7 @@
 Notes
 
-Following this YouTube playlist to learn Kerbal Operating System programming in the Kerbal Space Program game:  https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
+Following this YouTube playlist to learn Kerbal Operating System programming in the Kerbal Space Program game:  
+https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 
 2018/02/10  Inspired by SpaceX, recorded some data using MechJeb ascent and landing guidance for recovering boosters.  file:kos3.ks
 2018/02/10  X-Y scatter plot of altitude and distance over ground.  Strange looking flight trajectories.  Scale is out by x100. 
