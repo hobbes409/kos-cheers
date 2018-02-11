@@ -3,6 +3,8 @@ Notes
 Following this YouTube playlist to learn Kerbal Operating System programming in the Kerbal Space Program game:  
 https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 
+2018/02/11  Crashed Excel trying to create charts.  Each flight has approx 15,000 entries each with 5 data points.  Will try updating script to record data at lower frequency.
+
 2018/02/10  Inspired by SpaceX, recorded some data using MechJeb ascent and landing guidance for recovering boosters.  file:kos3.ks
 2018/02/10  X-Y scatter plot of altitude and distance over ground.  Strange looking flight trajectories.  Scale is out by x100. 
 2018/02/10  Which one is longitude again?  Oh yeah.  Trajectories look better now.  Changed distance over ground from degrees to meters.
