@@ -23,5 +23,5 @@ Altitude, Airspeed and remaining fuel
 ![Altitude Airspeed Fuel, with markup](https://imgur.com/jWXOQ77.png)
 Altitude, Airspeed and remaining fuel, with markup.
 
-![I really have no idea what I'm doing](https://imgur.com/6KdKg3G)
+![I really have no idea what I'm doing](https://imgur.com/6KdKg3G.png)
 I have no idea what I'm doing.
