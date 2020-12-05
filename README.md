@@ -17,7 +17,7 @@ It shows no controls (test 1), dynamically unstable system (test 2, 3, and 5), u
 Return to Launch Site (RTLS), Airspeed with and without airbrakes
 
 ![Trajectory Charts, mixed up latitude and longitude](https://imgur.com/2VvN6YT.png)
-X-Y scatter plot of altitude and latitude. Wait, which one is latitude again? Oh, right. Number four is X-Y scatter plot of altitude (in meters) and longitude (in degrees). This (roughly) approximates the trajectory of a Falcon 9 booster returning to launch site.  
+In this test the craft was launched to the east.  X-Y scatter plot of altitude and latitude. Wait, which one is latitude again? Oh, right. If the craft is heading due east, latitude changes should be very small, resulting only from aerodynamic forces and erroneous control inputs.  Number four is X-Y scatter plot of altitude (in meters) and longitude (in degrees). This (roughly) approximates the trajectory of a Falcon 9 booster returning to launch site.  
 
 ![Altitude Airspeed Fuel](https://imgur.com/LbKZQ31.png)
 Altitude, Airspeed and remaining fuel
