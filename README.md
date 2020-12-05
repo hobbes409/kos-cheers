@@ -7,7 +7,7 @@ https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 
 ![Episode 9, PID testing](https://imgur.com/FldA6VP.png)
 
-It shows undamped oscillations, damped oscillations. 
+It shows undamped oscillations (test 4), damped oscillations (test 6 and 7) and dynamically unstable system (test ). 
 
 [Source Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3p-68Y8yJsHSMP8lcNAej09bipXM0G5m5SqzhmRsaYitB99w4iv860hc9a8ICuSiga4d9MLwm5Wwo/pubchart?oid=1215296613&format=interactive)
 
