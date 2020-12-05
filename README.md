@@ -15,7 +15,7 @@ https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 Return to Launch Site (RTLS), Airspeed with and without airbrakes
 
 ![Trajectory Charts, mixed up latitude and longitude](https://imgur.com/2VvN6YT.png)
-X-Y scatter plot of altitude and latitude. Wait, which one is latitude again? Oh, right. Number four is X-Y scatter plot of altitude (in meters) and longitude (in degrees).
+X-Y scatter plot of altitude and latitude. Wait, which one is latitude again? Oh, right. Number four is X-Y scatter plot of altitude (in meters) and longitude (in degrees). This (roughly) approximates the trajectory of a Falcon 9 booster returning to launch site.  
 
 ![Altitude Airspeed Fuel](https://imgur.com/LbKZQ31.png)
 Altitude, Airspeed and remaining fuel
