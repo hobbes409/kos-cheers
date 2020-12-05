@@ -7,7 +7,7 @@ https://www.youtube.com/playlist?list=PLhiX1gKc3-5z8Itsiv-iq_25ZAySlEbz7
 
 ![Episode 9, PID testing](https://imgur.com/FldA6VP.png)
 
-It shows no controls (test 1), dynamically unstable system (test 2, 3, and 5), undamped oscillations (test 4), and properly damped oscillations (test 6 and 7).  Tests 6 and 7 result in a craft hovering at a specified altitude.   
+It shows no controls (test 1 just goes up and ends in a crash), dynamically unstable system (test 2, 3, and 5), undamped oscillations (test 4), and properly damped oscillations (test 6 and 7).  Tests 6 and 7 result in a craft hovering at a specified altitude of 500m.   
 
 [Source Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3p-68Y8yJsHSMP8lcNAej09bipXM0G5m5SqzhmRsaYitB99w4iv860hc9a8ICuSiga4d9MLwm5Wwo/pubchart?oid=1215296613&format=interactive)
 
